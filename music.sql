@@ -1,4 +1,4 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
+This is just my practice example with reference from other sources.
 -- Q1: Who is the senior most employee based on job title? 
 SELECT TOP 1
  title,last_name,first_name,levels
